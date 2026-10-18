@@ -1,0 +1,11 @@
+MI CUADERNO MÁGICO - WEB INSTALABLE
+
+Sube el contenido de este ZIP a Netlify Drop.
+
+NOVEDAD: recordatorio semanal de exportación JSON cuando hay magos inscritos. El recordatorio no envía datos ni descarga archivos por sí solo.
+
+Los cambios se guardan automáticamente en el navegador. Las copias JSON se descargan al pulsar el botón y deben guardarse fuera del navegador, preferentemente en una carpeta privada.
+
+IMPORTANTE: la web publicada es pública; no subas archivos JSON con datos de menores. Los datos introducidos en la web se guardan localmente en el dispositivo/navegador.
+
+El uso sin conexión requiere visitar la web por primera vez con Internet y permitir que el navegador guarde la aplicación.
